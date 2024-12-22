@@ -5,7 +5,7 @@ const Navbar: React.FC = () => {
   return (
     <nav className="bg-gray-100 shadow-md p-4 flex justify-between items-center">
       <div className="text-2xl font-bold text-blue-500">
-        Sikhshyalaya
+       SkillSphere
       </div>
       <ul className="flex space-x-6">
         <li>
